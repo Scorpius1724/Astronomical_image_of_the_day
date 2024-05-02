@@ -1,7 +1,7 @@
 # ASTRONOMICAL IMAGE OF THE DAY
 ## Web application showing the astronomical image of the day.
 ## Description:
-#### This is a web application written completely in Python. The web page is built using the streamlit library. The webpage displays the astronomical image of today, along with a brief description of what the image is displaying Both the image and the description are acquired from the [APOD API](https://github.com/nasa/apod-api) of NASA.
+#### This is a web application written completely in Python. The web page is built using the streamlit library. The webpage displays the astronomical image of today, along with a brief description of what the image is displaying. Both the image and the description are acquired from the [APOD API](https://github.com/nasa/apod-api) of NASA.
 ## Tech Stacks:
 #### Python, PyCharm IDE, Streamlit library, Requests library, Git, [NASA API](https://api.nasa.gov/)
 ## Installation guide:
