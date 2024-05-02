@@ -12,11 +12,11 @@
 * #### Python (version 3.6 or later)
 * #### pip (Python package manager)
 ### Running the app locally:
-* #### Clone the repository to your local machine:<br>```git clone https://github.com/Scorpius1724/Astronomical_picture_of_the_day.git```
+* #### Clone the repository to your local machine:<br>```git clone https://github.com/Scorpius1724/Astronomical_image_of_the_day.git```
 * #### Navigate into the project directory: <br> ```cd Astronomical_picture_of_the_day```
 * #### Install required Python packages:<br>```pip install -r requirements.txt```
 * #### Once all of the dependencies have been installed, you can run the app locally using the command:<br>```streamlit run main.py```
-## Contributing: To contribute to Astronomical picture of the day, follow these steps:
+## Contributing: To contribute to Astronomical image of the day, follow these steps:
 * #### Fork the repository to your GitHub account.
 * #### Create a new branch from the main branch for each new feature or bug fix.
 * #### Make your changes within the branch, ensuring that your code adheres to our coding standards and guidelines.
@@ -25,8 +25,7 @@
 * #### Push your branch to your forked repository.
 * #### Submit a pull request (PR) to the main branch of the original repository.
 ## Reporting Bugs and Issues - 
-#### If you encounter a bug or issue while using Astronomical picture of the day, please submit a new issue on our GitHub repository. Provide detailed information about the problem, including steps to reproduce it and any relevant error messages or screenshots.
+#### If you encounter a bug or issue while using Astronomical image of the day, please submit a new issue on our GitHub repository. Provide detailed information about the problem, including steps to reproduce it and any relevant error messages or screenshots.
 ## New features:
 #### If you want any new feature, you can suggest them to us in our issues tab.
-## License: MIT 
-#### Further details regarding the license can be found in our GitHub repository.
+## License: None
