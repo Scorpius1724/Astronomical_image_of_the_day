@@ -18,7 +18,7 @@
 * #### Once all of the dependencies have been installed, you can run the app locally using the command:<br>```streamlit run main.py```
 ## Contributing: To contribute to Astronomical image of the day, follow these steps:
 * #### Fork the repository to your GitHub account.
-* #### Create a new branch from the main branch for each new feature or bug fix.
+* #### Create a new branch from the master branch for each new feature or bug fix.
 * #### Make your changes within the branch, ensuring that your code adheres to our coding standards and guidelines.
 * #### Test your changes thoroughly to ensure they work as expected.
 * #### Commit your changes with descriptive commit messages.
